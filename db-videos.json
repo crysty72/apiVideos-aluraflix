@@ -1,0 +1,101 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "title": "Frameworks de Front End - Edición especial",
+        "category": "Frontend",
+        "thumbnail": "thumbnail1.jpg",
+        "url": "https://youtu.be/UNeKzI2WHgQ?si=VQdh2uV51p6xLmcB",
+        "description": "En este video nuestro instructor de Front End nos explicará cuáles son los frameworks de Front más conocidos y las diferencias entre ellos."
+      },
+      {
+        "id": 2,
+        "title": "Frameworks de Front End - Edición especial",
+        "category": "Frontend",
+        "thumbnail": "thumbnail1.jpg",
+        "url": "https://youtu.be/UNeKzI2WHgQ?si=VQdh2uV51p6xLmcB",
+        "description": "En este video nuestro instructor de Front End nos explicará cuáles son los frameworks de Front más conocidos y las diferencias entre ellos."
+      },
+      {
+        "id": 3,
+        "title": "Frameworks de Front End - Edición especial",
+        "category": "Frontend",
+        "thumbnail": "thumbnail1.jpg",
+        "url": "https://youtu.be/UNeKzI2WHgQ?si=VQdh2uV51p6xLmcB",
+        "description": "En este video nuestro instructor de Front End nos explicará cuáles son los frameworks de Front más conocidos y las diferencias entre ellos."
+      },
+      {
+        "id": 4,
+        "title": "Explorando el poder del Back-End en el Desarrollo Web",
+        "category": "Backend",
+        "thumbnail": "thumbnail2.jpg",
+        "url": "https://youtu.be/Z024LSCMqFk?si=WXJqUvy455ZcK4kV",
+        "description": "El backend es esencial para el funcionamiento de cualquier aplicación o sistema informático, ya que proporciona la infraestructura y la lógica necesarias para que la aplicación sea útil y funcione correctamente."
+      },
+      {
+        "id": 5,
+        "title": "Explorando el poder del Back-End en el Desarrollo Web",
+        "category": "Backend",
+        "thumbnail": "thumbnail2.jpg",
+        "url": "https://youtu.be/Z024LSCMqFk?si=WXJqUvy455ZcK4kV",
+        "description": "El backend es esencial para el funcionamiento de cualquier aplicación o sistema informático, ya que proporciona la infraestructura y la lógica necesarias para que la aplicación sea útil y funcione correctamente."
+      },
+      {
+        "id": 6,
+        "title": "Explorando el poder del Back-End en el Desarrollo Web",
+        "category": "Backend",
+        "thumbnail": "thumbnail2.jpg",
+        "url": "https://youtu.be/Z024LSCMqFk?si=WXJqUvy455ZcK4kV",
+        "description": "El backend es esencial para el funcionamiento de cualquier aplicación o sistema informático, ya que proporciona la infraestructura y la lógica necesarias para que la aplicación sea útil y funcione correctamente."
+      },
+      {
+        "id": 7,
+        "title": "¿Qué es innovación?",
+        "category": "Innovación",
+        "thumbnail": "thumbnail3.jpg",
+        "url": "https://youtu.be/DIQY4GuNqQQ?si=qsFjb0HsqjYIuXe7",
+        "description": "En este video le explicamos en qué consiste el término Innovación."
+      },
+      {
+        "id": 8,
+        "title": "¿Qué es innovación?",
+        "category": "Innovación",
+        "thumbnail": "thumbnail3.jpg",
+        "url": "https://youtu.be/DIQY4GuNqQQ?si=qsFjb0HsqjYIuXe7",
+        "description": "En este video le explicamos en qué consiste el término Innovación."
+      },
+      {
+        "id": 9,
+        "title": "¿Qué es innovación?",
+        "category": "Innovación",
+        "thumbnail": "thumbnail3.jpg",
+        "url": "https://youtu.be/DIQY4GuNqQQ?si=qsFjb0HsqjYIuXe7",
+        "description": "En este video le explicamos en qué consiste el término Innovación."
+      },
+      {
+        "id": 10,
+        "title": "Introducción: ¿Cómo empezar en tecnología?",
+        "category": "Gestión",
+        "thumbnail": "thumbnail4.jpg",
+        "url": "https://youtu.be/DB71zt-KAVc?si=8iBh80uB8UaPPGdf",
+        "description": "En Alura encuentras cursos de Programación, Data Science, Front-End, Infraestructura e Innovación y Gestión con un aprendizaje estructurado y la didáctica de quien sabe enseñar y es reconocido en el mercado de trabajo."
+      },
+      {
+        "id": 11,
+        "title": "Introducción: ¿Cómo empezar en tecnología?",
+        "category": "Gestión",
+        "thumbnail": "thumbnail4.jpg",
+        "url": "https://youtu.be/DB71zt-KAVc?si=8iBh80uB8UaPPGdf",
+        "description": "En Alura encuentras cursos de Programación, Data Science, Front-End, Infraestructura e Innovación y Gestión con un aprendizaje estructurado y la didáctica de quien sabe enseñar y es reconocido en el mercado de trabajo."
+      },
+      {
+        "id": 12,
+        "title": "Introducción: ¿Cómo empezar en tecnología?",
+        "category": "Gestión",
+        "thumbnail": "thumbnail4.jpg",
+        "url": "https://youtu.be/DB71zt-KAVc?si=8iBh80uB8UaPPGdf",
+        "description": "En Alura encuentras cursos de Programación, Data Science, Front-End, Infraestructura e Innovación y Gestión con un aprendizaje estructurado y la didáctica de quien sabe enseñar y es reconocido en el mercado de trabajo."
+      }
+    ]
+  }
+  
